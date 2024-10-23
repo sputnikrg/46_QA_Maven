@@ -1,0 +1,12 @@
+demoqa\elements\ButtonsTests.class
+demoqa\forms\PracticeFormTests.class
+demoqa\book_store\LoginTests.class
+demoqa\widgets\SelectTests.class
+demoqa\alerts_frames_windows\BrowserWindowsTests.class
+demoqa\alerts_frames_windows\AlertsTests.class
+demoqa\elements\BrokenLinksImagesTest.class
+demoqa\widgets\AutoCompleteTests.class
+demoqa\elements\TextBoxTests.class
+demoqa\core\TestBase.class
+demoqa\book_store\SearchBookTests.class
+demoqa\elements\BrokenLinksImagesTests.class
